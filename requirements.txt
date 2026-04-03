@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+xgboost
+lightgbm
+plotly
+plotly-express
+folium
+pyarrow
+openpyxl
+jupyter
+notebook
