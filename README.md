@@ -72,7 +72,7 @@ This project fulfills all **Advanced Assessment** requirements:
 - **Duplicates**: 0
 
 ---
-
+'''
 ## 3. Project Structure
 
 Data_Science_assessment/
@@ -85,7 +85,7 @@ Data_Science_assessment/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Ignores CSV, cache, venv
 └── README.md # This file
-
+'''
 
 ---
 
