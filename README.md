@@ -71,10 +71,10 @@ This project fulfills all **Advanced Assessment** requirements:
 - **Outliers Detected**: ~30,000 across temperature, wind, pressure (handled via IQR clipping)
 - **Duplicates**: 0
 
----
-'''
-## 3. Project Structure
 
+## 3. Project Structure
+---
+```
 Data_Science_assessment/
 ├── data/
 │ └── Global Weather Repository.csv # Source dataset (not committed to Git)
@@ -85,7 +85,7 @@ Data_Science_assessment/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Ignores CSV, cache, venv
 └── README.md # This file
-'''
+```
 
 ---
 
@@ -269,8 +269,7 @@ See requirements.txt for exact versions.
 8. Author
 Built for PM Accelerator Data Science Assessment.
 
-GitHub: [Your GitHub Profile]
-LinkedIn: [Your LinkedIn]
-“The best way to predict the future is to understand the patterns of the past.”
+
+
 
 
